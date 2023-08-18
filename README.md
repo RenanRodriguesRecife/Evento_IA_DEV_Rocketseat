@@ -46,4 +46,13 @@ Danel Omar Sória - prof de IA na udamy
 
 Aprendizado de máquina é a interação com os dados para aprender os melhores parâmetros da equação.
 
+
+----------------------------------------------------
+
+dia 2
+
+
+
 01 - https://www.youtube.com/watch?v=dI6wp7kjH50
+02 - https://www.youtube.com/watch?v=UTeY87dv7g0
+03 - 
