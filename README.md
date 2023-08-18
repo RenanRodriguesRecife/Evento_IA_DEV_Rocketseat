@@ -49,9 +49,22 @@ Aprendizado de máquina é a interação com os dados para aprender os melhores 
 
 ----------------------------------------------------
 
-dia 2
+dia 2 - Aplicação no mercado
 
+Automações com IA na Rocketseat
 
+Caso 1:
+Problemática: 
+
+Nossa plataforma possui muito conteúdo e muitas pessoas possuem dificuldade em encontrar em quais aulas são explicados determinados conceitos ou ferramentas.
+
+A grande maioria das dúvidas técnicas são erros de digitação ou coisas simples que podem ser identificadas a partir do código da aula.
+
+Solução: 
+
+Criar um assistente virtual (chatbot) que utilize de todos conteúdos disponíveis na nossa plataforma (Ignite, Explorer, etc...) para tirar dúvidas a recomendar conteúdos.
+
+21:03
 
 01 - https://www.youtube.com/watch?v=dI6wp7kjH50
 02 - https://www.youtube.com/watch?v=UTeY87dv7g0
